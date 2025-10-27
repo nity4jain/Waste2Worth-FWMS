@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food waste management system
 <!-- <img src="img/coverimage.jpeg"> -->
 <p>  The basic concept of this project  Food Waste Management is to collect theexcess/leftover food from donors such as hotels, restaurants, marriage halls, etc and distribute to  the  needy people .</p>
@@ -55,3 +56,7 @@
 
 <a href="https://kishor-23.github.io/food-donate/index.html" > view demo</a>
 
+=======
+# fwms
+A food waste management system
+>>>>>>> 0401f998ed776c8b590e132bf5869e893fcea99a
